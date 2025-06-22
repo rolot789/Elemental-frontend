@@ -2,7 +2,7 @@
   "name": "elemental-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://username.github.io/elemental-frontend",
+  "homepage": "https://rolot789.github.io/elemental-frontend",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
